@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 <a href="#" target="_blank">
   <img src="svg" width="1200" alt="JellyAnhDo" />
 </a>
-
+![](https://komarev.com/ghpvc/?username=JellyAnhDo&color=green)
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 
 <br>
 <!-- https://simpleicons.org/ -->
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
@@ -48,11 +47,12 @@ Here are some ideas to get you started:
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<!-- <div align=center>
+<div align=center>
   <a href="#" title="JellyAnhDo">
-    <img width="315" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuongLuyen&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JellyAnhDo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    
   </a>
   <a href="#" title="LuongLuyen">
-    <img align="right" width="434" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuongLuyen&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JellyAnhDo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-</div> -->
+</div>
