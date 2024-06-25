@@ -1,4 +1,4 @@
-## Hi 👋, I'm HenryDo
+## Hi 👋, I'm Henry Do
 A passionate frontend developer from VietNam
 ![](https://komarev.com/ghpvc/?username=JellyAnhDo&color=green)
 <!--
