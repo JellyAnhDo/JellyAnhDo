@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=47A248" alt="Java logo" title="Java" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=47A248" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
