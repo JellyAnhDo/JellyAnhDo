@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=47A248" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=47A248" alt="Laravel logo" title="Laravel" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
@@ -39,7 +41,7 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=47A248" alt="Laravel logo" title="Laravel" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=47A248" alt="Android logo" title="Android" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
